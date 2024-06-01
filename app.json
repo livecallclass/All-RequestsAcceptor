@@ -2,7 +2,7 @@
   "name": "Approve-All-JoinRequests",
   "description": "Approve all pending join requests on your telegram channel with using user session",
   "keywords": ["telegram", "bot"],
-  "repository": "https://github.com/MrMKN/Approve-All-JoinRequests",
+  "repository": "https://github.com/livecallclass/All-RequestsAcceptor",
   "env": {
     "SESSION": {"description": "pyrogram v2 session string ⚠️ v2 required ⚠️", "value": ""},              
   },
